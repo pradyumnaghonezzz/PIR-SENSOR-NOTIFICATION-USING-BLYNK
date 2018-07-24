@@ -1,9 +1,9 @@
 #include <ESP8266WiFi.h>
 #define BLYNK_PRINT Serial    
 #include <BlynkSimpleEsp8266.h>
-char auth[] = "ef3cafdf981f4049b4aceee19d41a14f";
-char ssid[] = "InFocus";
-char pass[] = "123456789";
+char auth[] = "ENTER AUTHO KEY";
+char ssid[] = "USERNAME";
+char pass[] = "PASSWORD";
 #define buzzer D7 
 #define sensor D1 
 int pirValue; 
